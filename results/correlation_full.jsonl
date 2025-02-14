@@ -1,0 +1,156 @@
+{
+  "rouge1": {
+    "coherence": {
+      "Pearson's \u03b3": 0.470988419340106,
+      "Spearman's \u03c1": 0.40791072518573607,
+      "Kendall's \u03c4": 0.3194419636888615
+    },
+    "consistency": {
+      "Pearson's \u03b3": -0.21488189791441584,
+      "Spearman's \u03c1": -0.16857002466487347,
+      "Kendall's \u03c4": -0.13686197207036968
+    },
+    "fluency": {
+      "Pearson's \u03b3": 0.4118502858428343,
+      "Spearman's \u03c1": 0.4044948667939769,
+      "Kendall's \u03c4": 0.3298365969404311
+    },
+    "relevance": {
+      "Pearson's \u03b3": 0.2675765412729775,
+      "Spearman's \u03c1": 0.2561993388973267,
+      "Kendall's \u03c4": 0.19777280602249214
+    }
+  },
+  "rouge2": {
+    "coherence": {
+      "Pearson's \u03b3": 0.33088361965058194,
+      "Spearman's \u03c1": 0.2604663729402516,
+      "Kendall's \u03c4": 0.19890441374638407
+    },
+    "consistency": {
+      "Pearson's \u03b3": -0.03952403397426127,
+      "Spearman's \u03c1": 0.03627103889076687,
+      "Kendall's \u03c4": 0.030139377767643187
+    },
+    "fluency": {
+      "Pearson's \u03b3": 0.35423433777886293,
+      "Spearman's \u03c1": 0.3323962297844036,
+      "Kendall's \u03c4": 0.2705857381315778
+    },
+    "relevance": {
+      "Pearson's \u03b3": 0.21543620766794425,
+      "Spearman's \u03c1": 0.18875033560780502,
+      "Kendall's \u03c4": 0.13872199705572189
+    }
+  },
+  "rougeL": {
+    "coherence": {
+      "Pearson's \u03b3": 0.5020702403486372,
+      "Spearman's \u03c1": 0.4496775507183662,
+      "Kendall's \u03c4": 0.34960685351810783
+    },
+    "consistency": {
+      "Pearson's \u03b3": -0.18288422230281742,
+      "Spearman's \u03c1": -0.12158053579754197,
+      "Kendall's \u03c4": -0.09905655496530279
+    },
+    "fluency": {
+      "Pearson's \u03b3": 0.3987483008462571,
+      "Spearman's \u03c1": 0.42202714753487186,
+      "Kendall's \u03c4": 0.34314973739749177
+    },
+    "relevance": {
+      "Pearson's \u03b3": 0.22317416716624439,
+      "Spearman's \u03c1": 0.22671807497104557,
+      "Kendall's \u03c4": 0.17336678372606595
+    }
+  },
+  "shannon_score": {
+    "coherence": {
+      "Pearson's \u03b3": -0.2798018253815082,
+      "Spearman's \u03c1": -0.28790479366409283,
+      "Kendall's \u03c4": -0.2147454721348685
+    },
+    "consistency": {
+      "Pearson's \u03b3": 0.21664367286577968,
+      "Spearman's \u03c1": 0.17824305540901905,
+      "Kendall's \u03c4": 0.14420597934032023
+    },
+    "fluency": {
+      "Pearson's \u03b3": -0.11925168366087789,
+      "Spearman's \u03c1": -0.15260539479882254,
+      "Kendall's \u03c4": -0.12001277268683885
+    },
+    "relevance": {
+      "Pearson's \u03b3": -0.10932692787126295,
+      "Spearman's \u03c1": -0.10338343185861418,
+      "Kendall's \u03c4": -0.07905315446592048
+    }
+  },
+  "shannon_star": {
+    "coherence": {
+      "Pearson's \u03b3": -0.19882636225116163,
+      "Spearman's \u03c1": -0.233091940782276,
+      "Kendall's \u03c4": -0.1725567557360137
+    },
+    "consistency": {
+      "Pearson's \u03b3": 0.1882534217286692,
+      "Spearman's \u03c1": 0.14646952671219904,
+      "Kendall's \u03c4": 0.11792622762662866
+    },
+    "fluency": {
+      "Pearson's \u03b3": -0.07092241978594971,
+      "Spearman's \u03c1": -0.1085570940848838,
+      "Kendall's \u03c4": -0.08474020150289338
+    },
+    "relevance": {
+      "Pearson's \u03b3": -0.05651872158870623,
+      "Spearman's \u03c1": -0.07613402710906803,
+      "Kendall's \u03c4": -0.05722788549619605
+    }
+  },
+  "sdc": {
+    "coherence": {
+      "Pearson's \u03b3": 0.30535560484478474,
+      "Spearman's \u03c1": 0.36184687100519325,
+      "Kendall's \u03c4": 0.275330431149503
+    },
+    "consistency": {
+      "Pearson's \u03b3": -0.2467828578832914,
+      "Spearman's \u03c1": -0.21628124099322824,
+      "Kendall's \u03c4": -0.16982042088404495
+    },
+    "fluency": {
+      "Pearson's \u03b3": 0.11513663670281045,
+      "Spearman's \u03c1": 0.14669261628965052,
+      "Kendall's \u03c4": 0.11915246607259627
+    },
+    "relevance": {
+      "Pearson's \u03b3": 0.06807166051541448,
+      "Spearman's \u03c1": 0.07550081271051688,
+      "Kendall's \u03c4": 0.060780836258709336
+    }
+  },
+  "sdc_star": {
+    "coherence": {
+      "Pearson's \u03b3": 0.41348309030158936,
+      "Spearman's \u03c1": 0.4469480488759097,
+      "Kendall's \u03c4": 0.34155690456631
+    },
+    "consistency": {
+      "Pearson's \u03b3": -0.30060883743775646,
+      "Spearman's \u03c1": -0.2724574122252186,
+      "Kendall's \u03c4": -0.21639213278172623
+    },
+    "fluency": {
+      "Pearson's \u03b3": 0.20960702963420597,
+      "Spearman's \u03c1": 0.23477655652157686,
+      "Kendall's \u03c4": 0.18855053295483046
+    },
+    "relevance": {
+      "Pearson's \u03b3": 0.13352743665154237,
+      "Spearman's \u03c1": 0.1313743330228206,
+      "Kendall's \u03c4": 0.10722297836870436
+    }
+  }
+}
